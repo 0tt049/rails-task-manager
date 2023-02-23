@@ -1,4 +1,4 @@
-## Background & Objectives
+# Background & Objectives
 
 Let's build a To Do Manager with the basic CRUD features:
 
